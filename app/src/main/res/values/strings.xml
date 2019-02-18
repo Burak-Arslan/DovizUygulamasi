@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Doviz</string>
+    <string name="akaryakitBilgileri">Akaryakıt Bilgileri</string>
+    <string name="caprazKurBilgileri">Çapraz Kur Bilgileri</string>
+    <string name="dovizBilgileri">Doviz Bilgileri</string>
+    <string name="borsaBilgileri">Borsa Bilgileri</string>
+    <string name="emtiaBilgileri">Emtia Bilgileri</string>
+    <string name="altinBilgileri">Altın Bilgileri</string>
+    <string name="krediBilgileri">Kredi Bilgileri</string>
+    <string name="ctyptoBilgileri">Crypto Bilgileri</string>
+</resources>

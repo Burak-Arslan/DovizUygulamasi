@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733135233471",
+    "firebase_url": "https://anlikdovizkurlari-3d270.firebaseio.com",
+    "project_id": "anlikdovizkurlari-3d270",
+    "storage_bucket": "anlikdovizkurlari-3d270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733135233471:android:85913cfdf264944d",
+        "android_client_info": {
+          "package_name": "com.example.burak.doviz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733135233471-n9e8pl9a6lskkajbjrnk2n5mmqh205b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.burak.doviz",
+            "certificate_hash": "4fc82ceea57145357d11f94b841f73e7bc1f090e"
+          }
+        },
+        {
+          "client_id": "733135233471-gp0corc29tsejvdn8s0in55mi0ip7tr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrAGwmdl0kJTThJIkDUmBg6bTanojoRAM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733135233471-gp0corc29tsejvdn8s0in55mi0ip7tr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
